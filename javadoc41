@@ -1,0 +1,11 @@
+/**
+ * Calculates the simple interest based on the provided principle, rate, and time.
+ * 
+ * @param principle the principal amount (initial investment or loan amount)
+ * @param rate the annual interest rate (expressed as a decimal)
+ * @param time the time period for which the interest is calculated (in years)
+ * @return the calculated simple interest
+ */
+public double calculateInterest(double principle, double rate, int time) {
+    // Your implementation here
+}
